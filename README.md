@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Dhruv Sharma</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
-<img align="center" src="https://github.com/DhruvSharma19/DhruvSharma19/assets/112254552/b6e94d13-d97e-46bd-8f30-30d283c34f86" alt="dhruv sharma"/>
+<img align="center" src="https://github.com/DhruvSharma19/DhruvSharma19/assets/112254552/9389c6a9-1ac8-4b92-baba-5ba61cbe4729" alt="dhruv sharma"/>
 
-<p align="left"> <a href="https://twitter.com/dhruv sharma" target="blank"><img src="https://img.shields.io/twitter/follow/dhruv sharma?logo=twitter&style=for-the-badge" alt="dhruv sharma" /></a> </p>
+<p align="left"> <a href="https://twitter.com/DhruvSh71653815" target="blank"><img src="https://img.shields.io/twitter/follow/dhruv sharma?logo=twitter&style=for-the-badge" alt="dhruv sharma" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/dhruv sharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dhruv sharma" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/dhruv sharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhruv sharma" height="30" width="40" /></a>
+<a href="https://twitter.com/DhruvSh71653815" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dhruv sharma" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/dhruv-sharma-042198233/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhruv sharma" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
