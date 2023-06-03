@@ -7,9 +7,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/DhruvSh71653815" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dhruv sharma" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/dhruv-sharma-042198233/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhruv sharma" height="30" width="40" /></a>
+<a href="https://twitter.com/DhruvSh71653815" target="blank"><img align="center" src="https://github.com/DhruvSharma19/DhruvSharma19/assets/112254552/ddb040fa-f0e1-45ad-92db-e13ad573e40c" alt="dhruv sharma" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/dhruv-sharma-042198233/" target="blank"><img align="center" src="https://github.com/DhruvSharma19/DhruvSharma19/assets/112254552/2953b93c-66ac-4f99-adca-ef45a2036c97" alt="dhruv sharma" height="30" width="40" /></a>
 </p>
+![twitter-svgrepo-com](https://github.com/DhruvSharma19/DhruvSharma19/assets/112254552/ddb040fa-f0e1-45ad-92db-e13ad573e40c)
+![linkedin-svgrepo-com](https://github.com/DhruvSharma19/DhruvSharma19/assets/112254552/2953b93c-66ac-4f99-adca-ef45a2036c97)
 
 
 <h3 align="left">Languages and Tools:</h3>
