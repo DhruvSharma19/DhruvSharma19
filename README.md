@@ -26,6 +26,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhruvsharma19&show_icons=true&locale=en&layout=compact" alt="dhruvsharma19" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dhruvsharma19&show_icons=true&locale=en" alt="dhruvsharma19" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhruvsharma19&" alt="dhruvsharma19" /></p>
