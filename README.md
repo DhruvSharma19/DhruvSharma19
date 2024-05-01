@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
 
-<img align="center" src="https://github.com/DhruvSharma19/DhruvSharma19/assets/112254552/9389c6a9-1ac8-4b92-baba-5ba61cbe4729" alt="dhruv sharma"/>
+<img align="center" src="https://github.com/DhruvSharma19/DhruvSharma19/assets/112254552/c8a17718-aa60-4912-bf92-5648ac88faa0" alt="dhruv sharma"/>
 
 <p align="left"> <a href="https://twitter.com/DhruvSh71653815" target="blank"><img src="https://img.shields.io/twitter/follow/dhruv sharma?logo=twitter&style=for-the-badge" alt="dhruv sharma" /></a> </p>
 
