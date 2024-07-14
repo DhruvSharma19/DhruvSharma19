@@ -13,6 +13,13 @@
 <a href="https://www.linkedin.com/in/dhruv-sharma-042198233/" target="blank"><img align="center" src="https://github.com/DhruvSharma19/DhruvSharma19/assets/112254552/2953b93c-66ac-4f99-adca-ef45a2036c97" alt="dhruv sharma" height="30" width="40" /></a>
 </p>
 
+<h3 align="left">About Me:</h3>
+
+- 🎓 Studying B.Tech in Computer Engineering at NIT Kurukshetra (2021-2025).
+- 💻 Experienced in C/C++, Java, Python, JavaScript, TypeScript, HTML, CSS, and more.
+- 🌟 Winner of the internal phase of Smart India Hackathon 2023.
+- 🔍 Solved 860+ questions on LeetCode and 250+ questions on GeeksForGeeks.
+- 📚 Interested in Machine Learning, Deep Learning, and enhancing user experiences through technology.
 
 
 <h3 align="left">Languages and Tools:</h3>
