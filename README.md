@@ -23,7 +23,7 @@
 - 🎓 Studying B.Tech in Computer Engineering at NIT Kurukshetra (2021-2025).
 - 💻 Experienced in C/C++, Java, Python, JavaScript, TypeScript, HTML, CSS, and more.
 - 🌟 Winner of the internal phase of Smart India Hackathon 2023.
-- 🔍 Solved 860+ questions on LeetCode and 250+ questions on GeeksForGeeks.
+- 🔍 Solved 1000+ questions on LeetCode and 250+ questions on GeeksForGeeks.
 - 📚 Interested in Machine Learning, Deep Learning, and enhancing user experiences through technology.
 
 
