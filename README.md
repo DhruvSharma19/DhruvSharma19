@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/DhruvSh71653815" target="blank"><img align="center" src="https://github.com/DhruvSharma19/DhruvSharma19/assets/112254552/ddb040fa-f0e1-45ad-92db-e13ad573e40c" alt="dhruv sharma" height="30" width="40" /></a>
+<a href="https://twitter.com/DhruvSh81398975" target="blank"><img align="center" src="https://github.com/DhruvSharma19/DhruvSharma19/assets/112254552/ddb040fa-f0e1-45ad-92db-e13ad573e40c" alt="dhruv sharma" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/dhruv-sharma-042198233/" target="blank"><img align="center" src="https://github.com/DhruvSharma19/DhruvSharma19/assets/112254552/2953b93c-66ac-4f99-adca-ef45a2036c97" alt="dhruv sharma" height="30" width="40" /></a>
 <a href="https://leetcode.com/dhruvsharma190801/" target="blank"><img align="center" src="https://github.com/user-attachments/assets/8226f1b1-10b8-4ba4-ae07-b7bc16c1b19c" alt="dhruv sharma" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/invincible2002" target="blank"><img align="center" src="https://github.com/user-attachments/assets/1fb13d0d-d277-4004-86d2-bbb3747cd3a9" alt="dhruv sharma" height="30" width="40" /></a>
