@@ -5,7 +5,7 @@
 
 <img align="center" src="https://github.com/DhruvSharma19/DhruvSharma19/assets/112254552/c8a17718-aa60-4912-bf92-5648ac88faa0" alt="dhruv sharma"/>
 
-<p align="left"> <a href="https://twitter.com/DhruvSh71653815" target="blank"><img src="https://img.shields.io/twitter/follow/dhruv sharma?logo=twitter&style=for-the-badge" alt="dhruv sharma" /></a> </p>
+<p align="left"> <a href="https://twitter.com/DhruvSh81398975" target="blank"><img src="https://img.shields.io/twitter/follow/dhruv sharma?logo=twitter&style=for-the-badge" alt="dhruv sharma" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
